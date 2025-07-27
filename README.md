@@ -4,6 +4,8 @@
 
 ---
 
+(image)[https://github.com/DruPro/Kalander/blob/main/docs/Screenshot%202025-07-26%20173922.png]
+
 ## 🔧 Purpose
 
 Kalander is not a UI component — it's an **architecture**.
