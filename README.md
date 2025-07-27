@@ -4,7 +4,8 @@
 
 ---
 
-(image)[https://github.com/DruPro/Kalander/blob/main/docs/Screenshot%202025-07-26%20173922.png]
+![Kalander Screenshot](https://github.com/DruPro/Kalander/blob/main/docs/Screenshot%202025-07-26%20173922.png?raw=true)
+
 
 ## 🔧 Purpose
 
