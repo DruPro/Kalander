@@ -3,6 +3,7 @@
 > **Finally:** A battle-tested architecture for complex calendar UIs that won't collapse under its own weight  
 
 **Kalander** (pronounced *Kal-Lander*) solves what every seasoned developer dreads: building maintainable calendar systems that actually scale. Forget monolithic components and scattered date logic - this is the architectural foundation serious teams use to ship scheduling UIs that last.  
+
 ![Kalander Calendar System](https://raw.githubusercontent.com/DruPro/Kalander/main/docs/Screenshot%202025-07-26%20173922.png)
 
 
