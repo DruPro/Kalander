@@ -135,15 +135,6 @@ flowchart LR
 
 ---
 
-## 🏗️ Built for These Real-World Scenarios  
-
-- **Hospital OR Schedulers** with life-critical timing  
-- **Financial Trading Floors** handling market hours  
-- **Global Team Planners** spanning 12 timezones  
-- **Industrial Maintenance Calendars** with 10k+ events  
-
----
-
 ## 🚀 Getting Started  
 
 1. **Adopt the mental model** (managers vs views vs utils)  
@@ -152,7 +143,7 @@ flowchart LR
 4. **Connect via KalanderManager** as central hub  
 
 > "We reduced calendar-related bugs by 80% after switching to this architecture"  
-> – Lead Engineer, Healthcare SaaS Platform  
+> – Me
 
 ---
 
